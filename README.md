@@ -2,7 +2,7 @@
 
 This is part of MS Data Science Course as part of Machine Learning Supervised Learning final project at University of Colorado Boulder.
 
-The notebook consists of EDA, Modeling results. Compared using different models. 
+The notebook consists of EDA and Model prediction results. Used Cross validation to compare using different models . 
 
 Project is Heart Disease Prediction and the dataset is sourced from Kaggle https://www.kaggle.com/datasets/rishidamarla/heart-disease-prediction .
 
